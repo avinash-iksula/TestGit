@@ -1,5 +1,5 @@
-.hello{
-    font-size: 20px;
-    background-color: yellow;
-    color: red;
+.main{
+    width: 200px;
+    margin: auto;
+    background-color: aliceblue;
 }
